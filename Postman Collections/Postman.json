@@ -107,14 +107,14 @@
 	"auth": {
 		"type": "bearer",
 		"bearer": {
-			"token": "BQB9cyZoy_o58pdqtYxUzzlmgPWBF5JaXb9PvAWB7x0aOFDF_eVhF-eFsRGwmq4gmECQ4MxIrfVGw2yCjz7at8to7fkpz1ES2SIPO-F-pVVIBmVTkHnvs-QM-6ouRv8lXJlP-Mvp_OZ1amhFTor7XRpPh5k0DjE8mODe7Sebxp8Ql6C_e8HaVJBTEN0qXsw_qX2Ru6RQUAHYenZT-FM_ChdDjW3xX428U8umWkIjwR1tdw"
+			"token": "BQDVZcXmI7VAwReoL5wke3oJF1OQCHZXFGutSRizje4tjoFdS8iO-FpRZd1ETgJ_x06aFeUsrLH-DN6LtOaojRi5mXNFFF_pv5cpQr4cjFs4x8hsn2WOtPp9bTVE-xw6zndApIUpr2eMSohT2bnVs0daYE2LtZKnUD0cJUp-06b4OsD6DBe--Chvh_mvadx56q9IKrrgVwm0FGWFOgeLOI7_CfQIa8_PYIYnVimUJ0WGig"
 		}
 	},
 	"event": [
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "bfdcb949-0ef5-4a88-9f53-a2bbd533304c",
+				"id": "fc944a43-3ca8-428c-9ed4-a1234fa977f8",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -124,7 +124,7 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "ced4bd2b-bda5-4bf0-8a73-81ffaa9e7e32",
+				"id": "91212d57-a3df-40a3-aa6c-29ff704c5c10",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -134,7 +134,7 @@
 	],
 	"variable": [
 		{
-			"id": "3c15f40e-3b97-4405-be26-2df3713a83f1",
+			"id": "3009171b-5132-4ace-9bc9-94b140987a76",
 			"key": "playlist_id",
 			"value": "37i9dQZF1DXakrXW5YU9SI",
 			"type": "string"
