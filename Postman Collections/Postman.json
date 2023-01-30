@@ -77,7 +77,7 @@
 					"script": {
 						"id": "0e3a6d2c-6fd1-4deb-a8c3-02fb2e32f9bb",
 						"exec": [
-							"setTimeout(() => {}, 2000); "
+							""
 						],
 						"type": "text/javascript"
 					}
@@ -134,7 +134,7 @@
 	],
 	"variable": [
 		{
-			"id": "7d51e9dd-9332-47b0-8ce5-1d041a67a98e",
+			"id": "a76e6790-c298-4954-9d36-abcb27c4f028",
 			"key": "playlist_id",
 			"value": "37i9dQZF1DXakrXW5YU9SI",
 			"type": "string"
