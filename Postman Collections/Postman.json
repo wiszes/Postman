@@ -66,7 +66,7 @@
 							"    pm.response.to.have.status(200);\r",
 							"});\r",
 							"pm.test(\"Response time is less than 200ms\", function () {\r",
-							"    pm.expect(pm.response.responseTime).to.be.below(2000);\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
 							"});"
 						],
 						"type": "text/javascript"
@@ -134,7 +134,7 @@
 	],
 	"variable": [
 		{
-			"id": "6272d519-2c55-4e37-85d4-ec56f338ce01",
+			"id": "3c15f40e-3b97-4405-be26-2df3713a83f1",
 			"key": "playlist_id",
 			"value": "37i9dQZF1DXakrXW5YU9SI",
 			"type": "string"
