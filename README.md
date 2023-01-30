@@ -5,5 +5,5 @@ Spotify API Tests:
 ```
 Test execution video:
 
-https://user-images.githubusercontent.com/109749016/215491933-0455dfd2-b4db-4990-a144-8886cc6d8fcd.mp4
+https://user-images.githubusercontent.com/109749016/215493865-10bf6718-d2b8-4611-a43a-4302ab53639b.mp4
 
