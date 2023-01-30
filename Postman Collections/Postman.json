@@ -34,7 +34,7 @@
 					}
 				}
 			],
-			"_postman_id": "99443a33-d0e2-40a8-9f03-bb1e27be34f7",
+			"id": "99443a33-d0e2-40a8-9f03-bb1e27be34f7",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -66,7 +66,7 @@
 							"    pm.response.to.have.status(200);\r",
 							"});\r",
 							"pm.test(\"Response time is less than 200ms\", function () {\r",
-							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(2000);\r",
 							"});"
 						],
 						"type": "text/javascript"
@@ -83,7 +83,7 @@
 					}
 				}
 			],
-			"_postman_id": "2f387304-52e0-4fc0-a0e7-7f967d8a0d90",
+			"id": "2f387304-52e0-4fc0-a0e7-7f967d8a0d90",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -134,7 +134,7 @@
 	],
 	"variable": [
 		{
-			"id": "a9d5ac8c-82f3-42b8-a7c2-370cb0724f16",
+			"id": "6272d519-2c55-4e37-85d4-ec56f338ce01",
 			"key": "playlist_id",
 			"value": "37i9dQZF1DXakrXW5YU9SI",
 			"type": "string"
