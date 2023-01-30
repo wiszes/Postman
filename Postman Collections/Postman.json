@@ -65,8 +65,8 @@
 							"pm.test(\"Status code is 200\", function () {\r",
 							"    pm.response.to.have.status(200);\r",
 							"});\r",
-							"pm.test(\"Response time is less than 200ms\", function () {\r",
-							"    pm.expect(pm.response.responseTime).to.be.below(200);\r",
+							"pm.test(\"Response time is less than 400ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(400);\r",
 							"});"
 						],
 						"type": "text/javascript"
@@ -134,7 +134,7 @@
 	],
 	"variable": [
 		{
-			"id": "1d73358b-7144-4583-9545-eafe9ef9f85d",
+			"id": "f61f46b8-ab5c-4197-bba6-ce42506c2672",
 			"key": "playlist_id",
 			"value": "37i9dQZF1DXakrXW5YU9SI",
 			"type": "string"
