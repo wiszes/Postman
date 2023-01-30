@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "Following playlist",
+			"name": "Follow playlist",
 			"event": [
 				{
 					"listen": "test",
@@ -134,7 +134,7 @@
 	],
 	"variable": [
 		{
-			"id": "6296bdb0-cea0-4232-9f2c-2454651b43fe",
+			"id": "b0a64576-9bc2-4c8e-9d96-a5ebb54335ca",
 			"key": "playlist_id",
 			"value": "37i9dQZF1DXakrXW5YU9SI",
 			"type": "string"
