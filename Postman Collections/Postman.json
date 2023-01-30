@@ -55,7 +55,7 @@
 			"response": []
 		},
 		{
-			"name": "Unfollowing playlist",
+			"name": "Unfollow playlist",
 			"event": [
 				{
 					"listen": "test",
@@ -134,7 +134,7 @@
 	],
 	"variable": [
 		{
-			"id": "b0a64576-9bc2-4c8e-9d96-a5ebb54335ca",
+			"id": "68153ec4-51b6-42e7-965b-7089b134272f",
 			"key": "playlist_id",
 			"value": "37i9dQZF1DXakrXW5YU9SI",
 			"type": "string"
